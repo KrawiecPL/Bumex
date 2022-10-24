@@ -66,7 +66,7 @@
 							
 							<div class="fbpage">
 								<h4>Znajdź nas na Allegro</h4>
-								<a href="https://allegro.pl/uzytkownik/Bumex_FHU"><img src="https://bumex.pl/images/home/allegro.webp"></a>
+								<a href="https://allegro.pl/uzytkownik/Bumex_FHU" target="_blank"><img src="https://bumex.pl/images/home/allegro.webp"></a>
 							</div>
 							<div></div>
 							
